@@ -15,13 +15,21 @@ Type: Structured (tabular)
 The dataset includes the following key water-quality parameters:
 
 💧 pH
+
 🌡️ Temperature
+
 🌫️ Turbidity
+
 ⚡ Conductivity
+
 🫧 Dissolved Oxygen
+
 🧪 Total Dissolved Solids (TDS)
+
 🧴 Nitrate
+
 🧂 Sulphate
+
 🎯 Water Quality Label (0 = Safe, 1 = Polluted)
 
 The goal is to build a binary classification model for pollution prediction.
