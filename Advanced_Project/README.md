@@ -84,6 +84,7 @@ Larger dataset
 Additional parameters
 Deep learning models
 Real-time sensor data integration
+
 👤 Author
 
-Shanet Parathara Roy
+Shanet P Roy
