@@ -101,4 +101,4 @@ Deploying the model as a web or mobile application
 
 7. ✍️ Author
 
-Shanet Parathara Roy
+Shanet P Roy
