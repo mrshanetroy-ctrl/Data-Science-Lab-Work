@@ -48,5 +48,3 @@ Shanet P Roy
 
 ---
 
-✔️ Submission Note
-All labs and projects have been uploaded, organized, and documented according to course requirements. The repository is publicly accessible for evaluation.
